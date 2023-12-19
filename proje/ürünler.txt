@@ -1,0 +1,7 @@
+1 Elma 10 0
+2 Portakal 15 0
+3 Karpuz 40 0
+4 Kivi 15 0
+5 Nar 18 0
+6 Şeftali 15 0
+7 Nektari 17 0
